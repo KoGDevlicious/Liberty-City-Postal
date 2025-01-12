@@ -3,7 +3,9 @@ discord.gg/worldtravel
 
 
 
-This is a Simple Postal Map that changes the Map with embedded street names, rivers and landmark names and Postals codes 
+This is a Postal Map Repository that changes the Map with embedded street names, rivers and landmark names and Postals codes 
+
+Theres two maps included so please look at the previews
 
 **How to install?**
 Download **int4192188789.gfx** and use OpenIV to replace the old one located here: `\mods\update\x64\dlcpacks\liberty_city\dlc.rpf\x64\data\cdimages\liberty_city_scaleform.rpf\` *(Take a backup of the original file just in case)*
